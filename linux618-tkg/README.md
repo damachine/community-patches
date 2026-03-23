@@ -1,0 +1,3 @@
+- adios-vX.X.X.mypatch - Enables Adaptive Deadline I/O Scheduler (ADIOS), https://github.com/firelzrd/adios
+- aufs.mypatch - AUFS support patch - Thanks to CachyOS developers
+- bbr3.mypatch - Enables BBRv3 TCP congestion control - Thanks to CachyOS developers
